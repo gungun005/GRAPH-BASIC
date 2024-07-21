@@ -1,0 +1,4 @@
+Topological sort  can be implemented using both the Graph Traversal Techniques i.e. BFS AND DFS
+In BFS we use the concept of indegree in which the independent node (node whose indegree is 0)is push into the queue
+While in DFS we just go through the normal process and push the nodes into stack n iterate over the stack to get the desired result.
+Whenever you encounter any dependency situation in your question , you must check to apply Topological Sort. 
